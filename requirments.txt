@@ -1,3 +1,5 @@
+these libraies are required to use this voice assistant in your PC : 
+
 Text to speech library => 
 pyttsx3 module (pip intall pyttsx3) 
 speech_recognition (pip install speech_recognition)
@@ -8,6 +10,10 @@ smtplib (pip install smtplib)
 for web scraping =>
 selenium (pip install selenium)
 
-for getting details from wilkipedia
+You have to download webdriver also for which ever browser you use
+I use chrome so I have installed its webdriver from link mentioned below 
+link : https://chromedriver.chromium.org/downloads
+
+for getting details from wilkipedia =>
 wikipedia (pip install wikipedia)
 
