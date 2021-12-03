@@ -1,0 +1,13 @@
+Text to speech library => 
+pyttsx3 module (pip intall pyttsx3) 
+speech_recognition (pip install speech_recognition)
+
+For sending email =>
+smtplib (pip install smtplib)
+
+for web scraping =>
+selenium (pip install selenium)
+
+for getting details from wilkipedia
+wikipedia (pip install wikipedia)
+
